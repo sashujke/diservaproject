@@ -12,6 +12,7 @@ export enum EIconSize {
   Size256 = 256,
   Size512 = 512,
 }
+// callback
 
 export interface IBaseIconProps {
   size: EIconSize;
